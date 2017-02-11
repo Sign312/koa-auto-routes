@@ -1,0 +1,23 @@
+{
+  "name": "koa-auto-routes",
+  "version": "0.0.1",
+  "description": "a tool to auto map your routers folder and router for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flypie2/koa-auto-routes.git"
+  },
+  "keywords": [
+    "koa",
+    "router"
+  ],
+  "author": "flypie2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flypie2/koa-auto-routes/issues"
+  },
+  "homepage": "https://github.com/flypie2/koa-auto-routes#readme"
+}
