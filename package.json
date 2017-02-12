@@ -1,6 +1,6 @@
 {
   "name": "koa-auto-routes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a tool to auto map your routers folder and router for koa",
   "main": "index.js",
   "scripts": {

@@ -7,7 +7,7 @@
 #### 安装
 
 ```shell
-    npm install auto-routes --save
+    npm install koa-auto-routes --save
 ```
 
 #### 引入
