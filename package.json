@@ -1,6 +1,6 @@
 {
   "name": "koa-auto-routes",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "a tool to auto map your routers folder and router for koa",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/flypie2/koa-auto-routes#readme",
   "dependencies": {
-    "koa-mount": "^2.0.0"
+    "koa-mount": "latest"
   }
 }
